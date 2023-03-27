@@ -16,7 +16,7 @@ module.exports = {
     title: `Design Site`,
     description: `Design Site, created using Gatsby / React, Airtable. `,
     author: `@nbojan`,
-    url: `http://localhost:8888`,
+    url: `https://ndesign-gatsby.netlify.app`,
     image: `/mainBcg.png`,
     twitterUsername: `@Trojka33`,
   },

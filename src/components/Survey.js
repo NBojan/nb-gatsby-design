@@ -4,7 +4,7 @@ import React, { useEffect, useState } from "react";
 import { Title } from "./index";
 import { BsCheckSquareFill } from "react-icons/bs";
 
-const url = "http://localhost:8888/.netlify/functions/survey";
+const url = "https://ndesign-gatsby.netlify.app/.netlify/functions/survey";
 
 const Survey = () => {
     const [isLoading, setIsLoading] = useState(true);
